@@ -1,7 +1,5 @@
 <img src="./.readme/noroff-light.png" width="160" align="right">
 
-# DESIGN 2 - Course Assignment
-
 ## Brief
 
 You are making a design system for a company of your choice. You can use your current design system as a starting point for this assignment. 
